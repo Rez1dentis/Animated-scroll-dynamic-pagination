@@ -1,0 +1,20 @@
+.listBlock {
+    font-size: 26px;
+    font-family: 'Courier New', Courier, monospace;
+    
+    }
+
+    li {
+        margin: auto;
+        margin-top: 50px;
+        width: 400px;
+        overflow: hidden;
+        border-radius: 10px;
+        height: 40px;
+        max-height: 35vh;
+        background-color: rgb(230, 212, 247);
+        list-style-type: none;
+        text-align: center;
+        box-shadow: 0px 10px 15px  -5px rgba(0, 0, 0, 0.3)
+    }
+  
